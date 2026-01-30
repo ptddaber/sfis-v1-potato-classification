@@ -99,4 +99,4 @@ After training, the `outputs/` folder will contain:
 
 ## License
 
-[Specify your license, e.g., MIT]
+[MIT]
